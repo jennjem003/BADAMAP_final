@@ -21,5 +21,5 @@
         "serve": "vite preview --port 9002 --host",
         "deploy": "gh-pages -d dist"
     },
-    "homepage": "https://Bogol-E.github.io/badamap"
+    "homepage": "https://jennjem003.github.io/BADAMAP_final"
 }
